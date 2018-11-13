@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ludo</string>
+    <string-array name="items">
+        <item><h1>Select Players</h1></item>
+        <item><h2>1</h2></item>
+        <item><h2>2</h2></item>
+        <item><h2>3</h2></item>
+        <item><h>4</h></item>
+    </string-array>
+</resources>
